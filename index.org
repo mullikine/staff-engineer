@@ -1,0 +1,9 @@
+
+[[brain:software-architecture/index]]
+
+* architecture
+  :PROPERTIES:
+  :ID:       4bb084cb-1412-4808-97d0-c5dfcb6d27f1
+  :END:
+
+[[brain:software-architecture/index]]
