@@ -1,6 +1,13 @@
 
 [[brain:software-architecture/index]]
 
+* testing
+  :PROPERTIES:
+  :ID:       3bfadc6a-b40d-47cf-ba61-49e25639dff8
+  :END:
+
+[[brain:senior-tester/QA Analyst Expectations vs Reality | Work Day In My Life]]
+
 * architecture
   :PROPERTIES:
   :ID:       4bb084cb-1412-4808-97d0-c5dfcb6d27f1
